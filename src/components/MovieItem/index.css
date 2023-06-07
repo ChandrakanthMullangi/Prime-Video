@@ -1,0 +1,26 @@
+/* Write your CSS here */
+
+.popup-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.trigger-button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+
+.video-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.close-button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
